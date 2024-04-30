@@ -1,2 +1,2 @@
 # CIL-LWN
-Class Incremental Learning for Light-weighted Networks
+\textbf{Class Incremental Learning for Light-weighted Networks}
