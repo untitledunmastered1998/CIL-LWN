@@ -11,3 +11,6 @@ Implementation of the paper "Class Incremental Learning for Light-weighted Netwo
 > #### 2. Tiny-ImageNet
 > #### 3. ImageNet-subset
 
+## Acknowledgments
+> This repository is built based on the following codebases:
+- [PyCIL] (https://github.com/G-U-N/PyCIL)
